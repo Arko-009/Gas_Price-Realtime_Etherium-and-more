@@ -1,4 +1,4 @@
-# Zeru Gas Tracker 🚀
+# Web3 Gas Tracker 🚀
 A real-time cross-chain gas price tracker with wallet simulation and live data visualization. This dashboard displays gas fees on Ethereum, Polygon, and Arbitrum networks using native RPCs, and calculates the USD transaction cost using Uniswap V3 pool data.
 ---
 ## 📌 Features
